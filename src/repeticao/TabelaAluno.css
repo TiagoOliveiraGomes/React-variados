@@ -1,0 +1,15 @@
+.TabelaAlunos table{
+    width: 50vh;
+}
+.TabelaAlunos th{
+    background-color: #334b79;
+    color: white;
+}
+
+.TabelaAlunos .par{
+    background-color: #6495ed;
+}
+
+.TabelaAlunos .impar{
+    background-color: #8b9bb9;
+}
